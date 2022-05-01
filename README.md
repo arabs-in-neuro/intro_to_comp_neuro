@@ -1,6 +1,6 @@
 # Introduction to Computational Neuroscience
 
-**Objectives**: Introduce tool that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
+**Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
 
 # Course materials
 
