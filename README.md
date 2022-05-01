@@ -4,8 +4,8 @@
 
 # Course materials
 
-- [Welcome Video](#)
-- [**Tutorials**: videos, notebooks, and slides](#)
+- [Welcome Video (TBA)](#)
+- [**Tutorials**: videos, notebooks, and slides (TBA)](#)
 
 # Course outline
 
