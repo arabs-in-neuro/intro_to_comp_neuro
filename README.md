@@ -18,7 +18,7 @@
 
 * Week 2
     * Mon, June 20: Linear Algebra Day 2 (Matrices)
-    * Tue, June 21: Linear Algebra Day 3 (Eigen Decomposition)
+    * Tue, June 21: Linear Algebra Day 3 (Eigen Values and Eigen Vectors)
     * Wed, June 22: Calculus (Differentiation and Integration)
     * Thu, June 23: Statistics Day 1 (Probability)
     * Fri, June 24: Statistics Day 2 (Inference)
