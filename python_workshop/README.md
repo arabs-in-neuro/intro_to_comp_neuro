@@ -5,6 +5,7 @@ If you wish to open a new (and blank) Python notebook, [click here](https://cola
 **Important**: Once you open the notebook, go to file > Save a copy in Drive. 
 
 # Course materials
+Those lectures are optional but and future reference
 
 | Lesson      | Description |
 | ----------- | ----------- |
