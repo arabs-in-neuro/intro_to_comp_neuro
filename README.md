@@ -33,8 +33,8 @@
 | Calculus Tutorial 1 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial1.ipynb) |
 | Calculus Tutorial 2 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial2.ipynb) |
 | Calculus Tutorial 3 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial3.ipynb) |
-| Statistics Tutorial 3 (W2D4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D4_Tutorial1.ipynb) |
-| Statistics Tutorial 3 (W2D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D5_Tutorial2.ipynb) |
+| Statistics Tutorial 1 (W2D4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D4_Tutorial1.ipynb) |
+| Statistics Tutorial 2 (W2D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D5_Tutorial2.ipynb) |
 
 ----
 
