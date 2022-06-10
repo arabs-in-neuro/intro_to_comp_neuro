@@ -22,7 +22,19 @@
     * Wed, June 22: Calculus (Differentiation and Integration)
     * Thu, June 23: Statistics Day 1 (Probability)
     * Fri, June 24: Statistics Day 2 (Inference)
+----
+# Programming tutorials
 
+| Tutorial  | Run |
+| --------- | --- |
+| Linear Algebra Tutorial 1 (W1D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W1D5_Tutorial1.ipynb) |
+| Linear Algebra Tutorial 2 (W2D1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W2D1_Tutorial2.ipynb) |
+| Linear Algebra Tutorial 3 (W2D2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W2D2_Tutorial3.ipynb) |
+| Calculus Tutorial 1 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W2D3_Tutorial1.ipynb) |
+| Calculus Tutorial 2 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W2D3_Tutorial2.ipynb) |
+| Calculus Tutorial 3 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W2D3_Tutorial3.ipynb) |
+| Statistics Tutorial 3 (W2D4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W2D4_Tutorial1.ipynb) |
+| Statistics Tutorial 3 (W2D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intro_to_comp_neuro/linear_algebra/W2D5_Tutorial2.ipynb) |
 
 ----
 
