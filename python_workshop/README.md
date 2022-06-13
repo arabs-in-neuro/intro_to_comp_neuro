@@ -9,9 +9,9 @@ Those lectures are optional but and future reference
 
 | Lesson      | Description | Notebook |
 | ----------- | ----------- | ----------- | 
-| Lesson 1    | [Introduction](https://www.youtube.com/watch?v=chinsa3C4d0)       | 
-| Lesson 2    | [Data Types](https://www.youtube.com/watch?v=NbcSN5QllEE)        | 
-| Lesson 3    | [Advanced Data Types](https://www.youtube.com/watch?v=IqyDrH7WBy4)       | 
+| Lesson 1    | [Introduction](https://www.youtube.com/watch?v=chinsa3C4d0)       | [Introduction](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/01_introduction.ipynb)
+| Lesson 2    | [Data Types](https://www.youtube.com/watch?v=NbcSN5QllEE)        | [Simple Data Types](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/02_Data_Types.ipynb)
+| Lesson 3    | [Advanced Data Types](https://www.youtube.com/watch?v=IqyDrH7WBy4)       | [Advanced Data Types](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/03_Data_Types.ipynb)
 | Lesson 4    | [Conditional Statements](https://www.youtube.com/watch?v=hKWg5Kcl50M)        | 
 | Lesson 5    | [Loops](https://www.youtube.com/watch?v=wIksiBhk4aA)       | 
 | Lesson 6    | [Functions](https://www.youtube.com/watch?v=Z47UtsLMZrg)        | 
