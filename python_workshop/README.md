@@ -14,4 +14,4 @@ Those lectures are optional but and future reference
 | Lesson 3    | [Advanced Data Types](https://www.youtube.com/watch?v=IqyDrH7WBy4)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/python_workshop/03_Data_Types.ipynb)
 | Lesson 4    | [Conditional Statements](https://www.youtube.com/watch?v=hKWg5Kcl50M)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/python_workshop/04_Conditions.ipynb)
 | Lesson 5    | [Loops](https://www.youtube.com/watch?v=wIksiBhk4aA)       | 
-| Lesson 6    | [Functions](https://www.youtube.com/watch?v=Z47UtsLMZrg)        | 
+| Lesson 6    | [Functions](https://www.youtube.com/watch?v=Z47UtsLMZrg)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/python_workshop/06_Functions.ipynb)
