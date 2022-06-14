@@ -23,11 +23,13 @@
     * Thu, June 23: Statistics Day 1 (Probability)
     * Fri, June 24: Statistics Day 2 (Inference)
 ----
-# Programming tutorials
+# Course materials
 
-| Tutorial  | Run |
-| --------- | --- |
-| Linear Algebra Tutorial 1 (W1D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W1D5_Tutorial1.ipynb) |
+| Tutorial  | Run | Video | Slides | 
+| --------- | --- | ----- | ------ |
+| Basics of Neurosciences (W1D3) |  | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/BJyRA1iGQ3Y) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/12/20201021201919%21Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png" alt="drawing" style="width:10px;"/>](https://drive.google.com/file/d/1jBuwJXorfYVsQfMz7epQt6FmvrvA6CwD/view?usp=sharing)
+| Neural Data (W1D4) |  | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/z3Ox8F0fis0) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/12/20201021201919%21Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png" alt="drawing" style="width:10px;"/>](https://drive.google.com/file/d/1iW06BJnPvR2C_MKZNiKMg1RU-ZgVNemY/view?usp=sharing)
+| Linear Algebra Tutorial 1 (W1D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W1D5_Tutorial1.ipynb) |  |
 | Linear Algebra Tutorial 2 (W2D1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W2D1_Tutorial2.ipynb) |
 | Linear Algebra Tutorial 3 (W2D2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W2D2_Tutorial3.ipynb) |
 | Calculus Tutorial 1 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial1.ipynb) |
