@@ -4,8 +4,24 @@
 
 # Course materials
 
-- [Welcome Video](https://youtu.be/o60MAFIi44M)
-- [**Tutorials**: videos, notebooks, and slides (TBA)](#)
+[Welcome Video](https://youtu.be/o60MAFIi44M)
+
+
+| Topic  | Tutorial | Video | Slides | 
+| ----- | --------- | ----- | ------ |
+| Python (W1D1&2) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="drawing" style="width:100px;"/>](https://github.com/arabs-in-neuro/intro_to_comp_neuro/tree/main/python_workshop) |
+| Basics of Neurosciences (W1D3) |  | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/BJyRA1iGQ3Y) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/1jBuwJXorfYVsQfMz7epQt6FmvrvA6CwD/view?usp=sharing) |
+| Neural Data (W1D4) |  | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/z3Ox8F0fis0) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/1iW06BJnPvR2C_MKZNiKMg1RU-ZgVNemY/view?usp=sharing) |
+| Linear Algebra Tutorial 1 (W1D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W1D5_Tutorial1.ipynb) |  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/1_wSbDJ2D13u6AJLI_nHA0IA3o7vgmP-n/view?usp=sharing) |
+| Linear Algebra Tutorial 2 (W2D1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W2D1_Tutorial2.ipynb) |
+| Linear Algebra Tutorial 3 (W2D2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W2D2_Tutorial3.ipynb) |
+| Calculus Tutorial 1 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial1.ipynb) |
+| Calculus Tutorial 2 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial2.ipynb) |
+| Calculus Tutorial 3 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial3.ipynb) |
+| Statistics Tutorial 1 (W2D4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D4_Tutorial1.ipynb) |
+| Statistics Tutorial 2 (W2D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D5_Tutorial2.ipynb) |
+
+----
 
 # Course outline
 
@@ -23,22 +39,7 @@
     * Thu, June 23: Statistics Day 1 (Probability)
     * Fri, June 24: Statistics Day 2 (Inference)
 ----
-# Course materials
 
-| Topic  | Tutorial | Video | Slides | 
-| ----- | --------- | ----- | ------ |
-| Basics of Neurosciences (W1D3) |  | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/BJyRA1iGQ3Y) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/1jBuwJXorfYVsQfMz7epQt6FmvrvA6CwD/view?usp=sharing) |
-| Neural Data (W1D4) |  | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/z3Ox8F0fis0) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/1iW06BJnPvR2C_MKZNiKMg1RU-ZgVNemY/view?usp=sharing) |
-| Linear Algebra Tutorial 1 (W1D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W1D5_Tutorial1.ipynb) |  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/1_wSbDJ2D13u6AJLI_nHA0IA3o7vgmP-n/view?usp=sharing) |
-| Linear Algebra Tutorial 2 (W2D1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W2D1_Tutorial2.ipynb) |
-| Linear Algebra Tutorial 3 (W2D2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/linear_algebra/W2D2_Tutorial3.ipynb) |
-| Calculus Tutorial 1 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial1.ipynb) |
-| Calculus Tutorial 2 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial2.ipynb) |
-| Calculus Tutorial 3 (W2D3) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/calculus/W2D3_Tutorial3.ipynb) |
-| Statistics Tutorial 1 (W2D4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D4_Tutorial1.ipynb) |
-| Statistics Tutorial 2 (W2D5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W2D5_Tutorial2.ipynb) |
-
-----
 
 # Daily schedule
 0:00 time here corresponds to the starting time of the day. This time is depending on your location is as follows:
