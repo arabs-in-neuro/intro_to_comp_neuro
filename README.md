@@ -26,29 +26,36 @@
 
 # Course outline
 
-* Week 1
-    * Mon, June 13: Python Day 1
-    * Tue, June 14: Python Day 2
-    * Wed, June 15: Basics of Neurosciences
-    * Thu, June 16: Neural Data
-    * Fri, June 17: Linear Algebra Day 1 (Vectors)
+#### Week 1
+* Mon, July 31: Python Day 1
+* Tue, August 1: Python Day 2
+* Wed, August 2: Basics of Neurosciences Day 1
+* Thu, August 3: Basics of Neurosciences Day 2
+* Fri, August 4: Neural Data
 
-* Week 2
-    * Mon, June 20: Linear Algebra Day 2 (Matrices)
-    * Tue, June 21: Linear Algebra Day 3 (Eigen Values and Eigen Vectors)
-    * Wed, June 22: Calculus (Differentiation and Integration)
-    * Thu, June 23: Statistics Day 1 (Probability)
-    * Fri, June 24: Statistics Day 2 (Inference)
-----
+#### Week 2
+* Mon, August 7: Linear Algebra Day 1 (Vectors)
+* Tue, August 8: Linear Algebra Day 2 (Matrices)
+* Wed, August 9: Linear Algebra Day 3 (Eigen Values and Eigen Vectors)
+* Thu, August 10: Calculus Day 1 (Differentiation and Integration)
+* Fri, August 11: Calculus Day 2 (Differential Equations)
+
+#### Week 3
+* Mon, August 14: Statistics Day 1 (Probability)
+* Tue, August 15: Statistics Day 2 (Inference)
+* Wed, August 16: Guest Speakers
+* Thu, August 17: Project Day 1
+* Fri, August 18: Project Day 2
 
 
 # Daily schedule
 0:00 time here corresponds to the starting time of the day. This time is depending on your location is as follows:
-* (UTC +0) Morocco and Mauritania: 4:00 PM
-* (UTC +1) Algeria: 5:00 PM
-* (UTC +2) Libya, Sudan and Egypt: 6:00 PM
-* (UTC +3) Palestine, Lebanon, Syria, Saudi Arabia: 7:00 PM
-* (UTC +4) UAE, Kuwait, Oman, Bahrain, Qatar: 8:00 PM
+* (UTC +0) Morocco and Mauritania: 3:00 PM
+* (UTC +1) Algeria, Tunisia: 4:00 PM
+* (UTC +2) Libya and Sudan: 5:00 PM
+* (UTC +3) Palestine, Lebanon, Syria, Saudi Arabia, Iraq and Egypt: 6:00 PM
+* (UTC +4) UAE, Kuwait, Oman, Bahrain, Qatar: 7:00 PM
+
 
 ## Python Days
 They are whole workshop days. The day in total is composed of 5 hours of tutorials including a 1 hour break in the middle. 
