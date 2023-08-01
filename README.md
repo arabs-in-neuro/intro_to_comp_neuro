@@ -22,6 +22,10 @@
 | Statistics Tutorial 1 (W3D1)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W3D1_Tutorial1.ipynb)          | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/KVuKH63vLeI)                                                        | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/14-8i07u5MCAsZEPymvpxGqdisD5GrNcw/view?usp=sharing) |
 | Statistics Tutorial 2 (W3D2)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arabs-in-neuro/intro_to_comp_neuro/blob/main/statistics/W3D2_Tutorial2.ipynb)          | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/qKSVIjnL8u8)                                                        | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/19Bx5oaYSQ6rlhAUWcE5fUucVKDCZMgY6/view?usp=sharing) |
 
+## Useful resources
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="drawing" style="width:100px;"/>](https://github.com/NeuromatchAcademy/precourse/blob/main/resources.md)
+
+
 ----
 
 # Course outline
